@@ -1,0 +1,29 @@
+{
+  "name": "onmybucketlist",
+  "version": "0.0.0",
+  "description": "this example app is so cool",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/japhethcrawford/bucketlist.git"
+  },
+  "keywords": [
+    "\"bucket",
+    "list\"",
+    "\"example\"",
+    "\"heroku\""
+  ],
+  "author": "Japheth-Crawford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/japhethcrawford/bucketlist/issues"
+  },
+  "homepage": "https://github.com/japhethcrawford/bucketlist",
+  "dependencies": {
+    "express": "^4.1.2",
+    "logfmt": "^1.1.2"
+  }
+}
